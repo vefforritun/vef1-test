@@ -3,5 +3,9 @@ html, body {
 }
 
 body {
-  background-color: pink;
+  background-color: blue;
+}
+
+button {
+  font-weight: bold;
 }
