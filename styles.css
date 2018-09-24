@@ -6,6 +6,7 @@ body {
   background-color: blue;
 }
 
-button {
+.button {
   font-weight: bold;
+  font-size: 2em;
 }
